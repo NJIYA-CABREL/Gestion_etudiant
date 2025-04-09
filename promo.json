@@ -1,0 +1,37 @@
+[
+    {
+        "nom": "FEDE",
+        "prenom": "VALVERDE",
+        "age": 23,
+        "numero_etudiant": 681042017,
+        "moyenne": 12.0,
+        "notes": [
+            10,
+            14
+        ]
+    },
+    {
+        "nom": "Sergio",
+        "prenom": "Ramos",
+        "age": 22,
+        "numero_etudiant": 681042000,
+        "moyenne": 0,
+        "notes": []
+    },
+    {
+        "nom": "Karim",
+        "prenom": "Benzema",
+        "age": 35,
+        "numero_etudiant": 681042001,
+        "moyenne": 0,
+        "notes": []
+    },
+    {
+        "nom": "Vinicius",
+        "prenom": "Junior",
+        "age": 22,
+        "numero_etudiant": 681042002,
+        "moyenne": 0,
+        "notes": []
+    }
+]
