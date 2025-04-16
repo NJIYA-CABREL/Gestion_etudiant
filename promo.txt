@@ -1,4 +1,4 @@
 Etudiant : FEDE VALVERDE, Age: 23, Numero Etudiant: 681042017, Moyenne: 12.0, Statut: Admis
-Etudiant : Sergio Ramos, Age: 22, Numero Etudiant: 681042000, Moyenne: 0, Statut: Echoue
-Etudiant : Karim Benzema, Age: 35, Numero Etudiant: 681042001, Moyenne: 0, Statut: Echoue
-Etudiant : Vinicius Junior, Age: 22, Numero Etudiant: 681042002, Moyenne: 0, Statut: Echoue
+Etudiant : Sergio Ramos, Age: 22, Numero Etudiant: 681042000, Moyenne: 0, Statut: Redoublant
+Etudiant : Karim Benzema, Age: 35, Numero Etudiant: 681042001, Moyenne: 0, Statut: Redoublant
+Etudiant : Vinicius Junior, Age: 22, Numero Etudiant: 681042002, Moyenne: 0, Statut: Redoublant

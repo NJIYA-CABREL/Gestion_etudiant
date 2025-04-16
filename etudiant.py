@@ -16,7 +16,7 @@ class Etudiant(Personne):
         if self.moyenne >= 10:
             return "Admis"
         else:
-            return "Echoue"
+            return "Redoublant"
 
     def se_presenter(self):
         print("Etudiant :",self.nom,self.prenom,

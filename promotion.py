@@ -1,5 +1,4 @@
 from etudiant import Etudiant, e1
-from fpdf import FPDF, FontFace, XPos, YPos
 import json
 
 class Promotion() :
